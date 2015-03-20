@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/cidemo.app</string>
+		<key>CFBundleIdentifier</key>
+		<string>com.cidemo</string>
+		<key>CFBundleShortVersionString</key>
+		<string>1.0</string>
+		<key>CFBundleVersion</key>
+		<string>1.0</string>
+		<key>IconPaths</key>
+		<array>
+			<string>Applications/cidemo.app/Icon-29@2x.png</string>
+			<string>Applications/cidemo.app/Icon-29.png</string>
+			<string>Applications/cidemo.app/Icon-120@2x.png</string>
+			<string>Applications/cidemo.app/Icon-120.png</string>
+			<string>Applications/cidemo.app/Icon-57@2x.png</string>
+			<string>Applications/cidemo.app/Icon-57.png</string>
+			<string>Applications/cidemo.app/Icon-76@2x.png</string>
+			<string>Applications/cidemo.app/Icon-76.png</string>
+			<string>Applications/cidemo.app/Icon-40@2x.png</string>
+			<string>Applications/cidemo.app/Icon-40.png</string>
+			<string>Applications/cidemo.app/Icon-72@2x.png</string>
+			<string>Applications/cidemo.app/Icon-72.png</string>
+		</array>
+		<key>SigningIdentity</key>
+		<string>iPhone Developer: Andrii Vasylchenko (6V9RN73P66)</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2015-03-20T21:56:18Z</date>
+	<key>Name</key>
+	<string>cidemoCidemoIphone</string>
+	<key>SchemeName</key>
+	<string>cidemoCidemoIphone</string>
+</dict>
+</plist>
